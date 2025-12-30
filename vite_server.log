@@ -1,0 +1,39 @@
+
+> students@0.0.0 dev
+> vite
+
+
+  VITE v6.4.1  ready in 551 ms
+
+  ➜  Local:   http://localhost:5000/
+  ➜  Network: http://192.168.0.2:5000/
+12:52:54 PM [vite] (client) hmr update /components/StudentDashboard.tsx
+1:27:21 PM [vite] (client) hmr update /components/AdminDashboard.tsx
+2:30:42 PM [vite] (client) hmr update /components/AdminDashboard.tsx, /components/SyllabusStructure.tsx
+2:30:54 PM [vite] (client) hmr update /components/SyllabusStructure.tsx
+2:31:17 PM [vite] (client) hmr update /components/AdminDashboard.tsx
+2:31:35 PM [vite] (client) hmr update /components/SyllabusStructure.tsx
+2:31:43 PM [vite] (client) hmr update /components/StudentDashboard.tsx
+2:31:49 PM [vite] (client) hmr update /components/AdminDashboard.tsx
+2:32:26 PM [vite] (client) hmr update /App.tsx
+2:32:42 PM [vite] (client) hmr update /components/StudentDashboard.tsx
+2:32:54 PM [vite] (client) hmr update /components/AdminDashboard.tsx
+2:33:30 PM [vite] (client) hmr update /components/Store.tsx
+2:33:43 PM [vite] (client) hmr update /components/StudentDashboard.tsx
+2:51:36 PM [vite] (client) hmr update /components/RedeemSection.tsx
+2:51:55 PM [vite] (client) hmr update /App.tsx
+3:17:46 PM [vite] (client) hmr update /components/StudentDashboard.tsx
+3:18:17 PM [vite] (client) hmr update /components/StudentDashboard.tsx
+3:18:30 PM [vite] (client) hmr update /components/AdminDashboard.tsx
+3:18:40 PM [vite] (client) hmr update /components/Store.tsx
+3:32:47 PM [vite] (client) page reload index.tsx
+3:34:11 PM [vite] (client) hmr update /components/AdminDashboard.tsx, /components/SyllabusStructure.tsx
+3:42:41 PM [vite] (client) hmr update /components/UniversalChat.tsx
+4:05:49 PM [vite] (client) hmr update /components/AdminDashboard.tsx
+4:05:59 PM [vite] (client) hmr update /components/PdfView.tsx
+4:07:36 PM [vite] (client) hmr update /components/AdminDashboard.tsx
+4:08:08 PM [vite] (client) hmr update /components/StudentDashboard.tsx
+4:17:33 PM [vite] (client) hmr update /components/StudentDashboard.tsx
+4:26:05 PM [vite] (client) hmr update /components/StudentDashboard.tsx
+4:26:13 PM [vite] (client) hmr update /components/SyllabusStructure.tsx
+4:40:33 PM [vite] (client) hmr update /App.tsx, /components/StudentDashboard.tsx, /components/AdminDashboard.tsx, /components/SubjectSelection.tsx, /components/SyllabusStructure.tsx
